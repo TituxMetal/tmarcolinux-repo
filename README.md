@@ -12,3 +12,6 @@ Server = https://tituxmetal.github.io/$repo/$arch
 And run `# pacman -Syyuu` in your terminal to update the database.
 
 Now you can install packages from this repository!
+
+# Update the repository database
+Simply run the updateRepo.sh script, this will update and sign the database.
